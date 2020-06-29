@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MVP/MVP Title Screen.unity
+    guid: 4a90f46b995925142a7d0166bbb61c16
+  - enabled: 1
+    path: Assets/Scenes/MVP/MVP Controls.unity
+    guid: 3611061d72773244591abbd0635fbfef
+  - enabled: 1
+    path: Assets/Scenes/MVP/MVP Level 1 - Tutorial v2.unity
+    guid: 2faa77254091e8a40885b6cf1f855989
   m_configObjects: {}

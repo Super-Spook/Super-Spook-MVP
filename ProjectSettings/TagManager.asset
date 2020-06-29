@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Spikes
+  - MovementX
+  - MovementY
+  - Mushroom
+  - Avatar
+  - MovementXY
+  - GM
+  - StartGame
   layers:
   - Default
   - TransparentFX
@@ -14,7 +22,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -39,6 +47,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 760734665
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: DragBorder
+    uniqueID: 3402552879
+    locked: 0
+  - name: Spikes
+    uniqueID: 855502983
+    locked: 0
+  - name: Moveable Object
+    uniqueID: 1481805253
+    locked: 0
+  - name: Mushrooms
+    uniqueID: 2914217083
+    locked: 0
+  - name: Adventurer + Spook
+    uniqueID: 2230191821
+    locked: 0
+  - name: Text
+    uniqueID: 1961054387
     locked: 0
